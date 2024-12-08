@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --watch server.js",
+    "star": " node client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
